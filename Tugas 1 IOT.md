@@ -9,7 +9,7 @@ Tugas 1 IoT
 - kebutuhan IoT (Internet of Things)
 - Contoh Nyata IoT (Internet of Things)
 
-
+---------------------------------------------------------------------------
 
 - Definisi IoT
 
