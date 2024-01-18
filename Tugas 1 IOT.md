@@ -2,12 +2,12 @@ Nama : Ananda Haykel Iskandar
 NIM : 09021382126137
 Internet of Things
 
-Tugas 1 Iot
+Tugas 1 IoT
 
-sejarah & definisi IoT (Internet of Things)
-referensi Model IoT (Internet of Things)
-kebutuhan IoT (Internet of Things)
-Contoh Nyata IoT (Internet of Things)
+- sejarah & definisi IoT (Internet of Things)
+- referensi Model IoT (Internet of Things)
+- kebutuhan IoT (Internet of Things)
+- Contoh Nyata IoT (Internet of Things)
 
 
 
