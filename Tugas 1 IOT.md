@@ -73,10 +73,9 @@ arsitektur IoT.
 
 1. Physical Devices & Controller
 Terdiri dari 3 bagian, yaitu sebagai berikut:
-
-Sensor: Dimana sensor dapat mengidentifikasikan bagian physic dari alam. Sensor dapat berupa pengukur suhu, pengukur jarak dan sebagainya.
-Embededed system (sistem benam): Minimum sistem atau pusat pemrosesan yang berukuran kecil dan dilengkapi dengan beberapa interface IO.
-Gateway: Perangkat komunikasi yang menghubungkan perangkat physical dengan internet
+  - Sensor: Dimana sensor dapat mengidentifikasikan bagian physic dari alam. Sensor dapat berupa pengukur suhu, pengukur jarak dan sebagainya.
+  - Embededed system (sistem benam): Minimum sistem atau pusat pemrosesan yang berukuran kecil dan dilengkapi dengan beberapa interface IO.
+  - Gateway: Perangkat komunikasi yang menghubungkan perangkat physical dengan internet
 
 2. Connectivity
 Perangkat komunikasi yang menghubungkan antara perangkat fisik dan edge computing, bisa berupa 4G, Wifi, LoRA dan sebagainya.
