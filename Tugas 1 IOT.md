@@ -9,10 +9,7 @@ referensi IoT (Internet of Things)
 kebutuhan IoT (Internet of Things)
 implementasi IoT (Internet of Things)
 
-Referensi : 
-Nahdi, F., & Dhika, H. (2021). 
-Analisis Dampak Internet of Things (IoT) Pada Perkembangan Teknologi di Masa Yang Akan Datang. 
-INTEGER: Journal of Information Technology, 6(1).
+
 
 Definisi IoT
 
